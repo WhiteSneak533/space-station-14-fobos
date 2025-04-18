@@ -97,6 +97,7 @@
   components:
   - type: StorageFill
     contents:
+      - id: ClothingEyesHudMedicSecurity
       - id: ClothingHeadsetBrigmedic
       - id: TrackingImplanter
       - id: RubberStampBrigmedic
