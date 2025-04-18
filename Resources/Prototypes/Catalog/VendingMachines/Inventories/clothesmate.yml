@@ -16,6 +16,7 @@
     ClothingOuterCoatLetterman: 4 # DS14
     ClothingOuterCoatLettermanN: 4 # DS14
     ClothingOuterCoatLettermanRed: 4 # DS14
+    ClothingOuterCoatTMCPunk: 1
     ClothingUniformJumpskirtPencilBlack: 4 # DS14
     ClothingUniformJumpskirtPencilBurgandy: 4 # DS14
     ClothingUniformJumpskirtPencilCheckered: 4 # DS14
@@ -63,6 +64,7 @@
     ClothingUniformJumpskirtCasualRed: 2
     ClothingUniformJumpsuitCasualGreen: 2
     ClothingUniformJumpskirtCasualGreen: 2
+    ClothingUniformJumpskirtTmcPunk: 1
     ClothingUniformJumpsuitSuitCheckered: 4 # DS14
     ClothingUniformJumpsuitSuitTan: 4 # DS14
     ClothingUniformJumpsuitSuitWaiter: 4 # DS14

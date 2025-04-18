@@ -36,7 +36,7 @@
   equipment:
     outerClothing: ClothingOuterVestSecurityMedic
     shoes: ClothingShoesBootsBrigmedic
-    eyes: ClothingEyesHudMedical
+    eyes: ClothingEyesHudMedicSecurity
     head: ClothingHeadHatBeretBrigmedic
     id: BrigmedicPDA
     ears: ClothingHeadsetBrigmedic

@@ -84,3 +84,14 @@
     sprite: _DeadSpace/Clothing/OuterClothing/Coats/senior_officer_leather.rsi
   - type: Clothing
     sprite: _DeadSpace/Clothing/OuterClothing/Coats/senior_officer_leather.rsi
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterCoatTMCPunk
+  name: куртка панка
+  description: Это очень стильная и красивая куртка панка, такие носят только крутыши.
+  components:
+  - type: Sprite
+    sprite: _DeadSpace/Clothing/OuterClothing/Coats/tmc.rsi
+  - type: Clothing
+    sprite: _DeadSpace/Clothing/OuterClothing/Coats/tmc.rsi
